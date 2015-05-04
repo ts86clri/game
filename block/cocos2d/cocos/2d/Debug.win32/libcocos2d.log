@@ -1,0 +1,44 @@
+﻿2015/05/04 17:01:55 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\cocos2d-x-3.3\projects\block\cocos2d\cocos\2d\libcocos2d.vcxproj" (Build ターゲット)。
+     1>PreLinkEvent:
+         if not exist "C:\cocos2d-x-3.3\projects\block\proj.win32\Debug.win32\" mkdir "C:\cocos2d-x-3.3\projects\block\proj.win32\Debug.win32\"
+         xcopy /Y /Q "C:\cocos2d-x-3.3\projects\block\cocos2d\cocos\2d\..\..\external\freetype2\prebuilt\win32\*.*" "C:\cocos2d-x-3.3\projects\block\proj.win32\Debug.win32\"
+         xcopy /Y /Q "C:\cocos2d-x-3.3\projects\block\cocos2d\cocos\2d\..\..\external\glfw3\prebuilt\win32\*.*" "C:\cocos2d-x-3.3\projects\block\proj.win32\Debug.win32\"
+         xcopy /Y /Q "C:\cocos2d-x-3.3\projects\block\cocos2d\cocos\2d\..\..\external\curl\prebuilt\win32\*.*" "C:\cocos2d-x-3.3\projects\block\proj.win32\Debug.win32\"
+         xcopy /Y /Q "C:\cocos2d-x-3.3\projects\block\cocos2d\cocos\2d\..\..\external\jpeg\prebuilt\win32\*.*" "C:\cocos2d-x-3.3\projects\block\proj.win32\Debug.win32\"
+         xcopy /Y /Q "C:\cocos2d-x-3.3\projects\block\cocos2d\cocos\2d\..\..\external\png\prebuilt\win32\*.*" "C:\cocos2d-x-3.3\projects\block\proj.win32\Debug.win32\"
+         xcopy /Y /Q "C:\cocos2d-x-3.3\projects\block\cocos2d\cocos\2d\..\..\external\tiff\prebuilt\win32\*.*" "C:\cocos2d-x-3.3\projects\block\proj.win32\Debug.win32\"
+         xcopy /Y /Q "C:\cocos2d-x-3.3\projects\block\cocos2d\cocos\2d\..\..\external\webp\prebuilt\win32\*.*" "C:\cocos2d-x-3.3\projects\block\proj.win32\Debug.win32\"
+         xcopy /Y /Q "C:\cocos2d-x-3.3\projects\block\cocos2d\cocos\2d\..\..\external\websockets\prebuilt\win32\*.*" "C:\cocos2d-x-3.3\projects\block\proj.win32\Debug.win32\"
+         xcopy /Y /Q "C:\cocos2d-x-3.3\projects\block\cocos2d\cocos\2d\..\..\external\win32-specific\zlib\prebuilt\*.*" "C:\cocos2d-x-3.3\projects\block\proj.win32\Debug.win32\"
+         xcopy /Y /Q "C:\cocos2d-x-3.3\projects\block\cocos2d\cocos\2d\..\..\external\win32-specific\icon\prebuilt\*.*" "C:\cocos2d-x-3.3\projects\block\proj.win32\Debug.win32\"
+         xcopy /Y /Q "C:\cocos2d-x-3.3\projects\block\cocos2d\cocos\2d\..\..\external\win32-specific\gles\prebuilt\*.*" "C:\cocos2d-x-3.3\projects\block\proj.win32\Debug.win32\"
+         xcopy /Y /Q "C:\cocos2d-x-3.3\projects\block\cocos2d\cocos\2d\..\..\external\win32-specific\OpenalSoft\prebuilt\*.*" "C:\cocos2d-x-3.3\projects\block\proj.win32\Debug.win32\"
+         xcopy /Y /Q "C:\cocos2d-x-3.3\projects\block\cocos2d\cocos\2d\..\..\external\win32-specific\MP3Decoder\prebuilt\*.*" "C:\cocos2d-x-3.3\projects\block\proj.win32\Debug.win32\"
+         xcopy /Y /Q "C:\cocos2d-x-3.3\projects\block\cocos2d\cocos\2d\..\..\external\win32-specific\OggDecoder\prebuilt\*.*" "C:\cocos2d-x-3.3\projects\block\proj.win32\Debug.win32\"
+         xcopy /Y /Q "C:\cocos2d-x-3.3\projects\block\cocos2d\cocos\2d\..\..\external\sqlite3\libraries\win32\*.*" "C:\cocos2d-x-3.3\projects\block\proj.win32\Debug.win32\"
+         xcopy /Y /Q "C:\cocos2d-x-3.3\projects\block\cocos2d\cocos\2d\..\..\external\chipmunk\prebuilt\win32\debug-lib\*.*" "C:\cocos2d-x-3.3\projects\block\proj.win32\Debug.win32\"
+         :VCEnd
+         1 個のファイルをコピーしました
+         1 個のファイルをコピーしました
+         2 個のファイルをコピーしました
+         1 個のファイルをコピーしました
+         1 個のファイルをコピーしました
+         2 個のファイルをコピーしました
+         1 個のファイルをコピーしました
+         2 個のファイルをコピーしました
+         2 個のファイルをコピーしました
+         2 個のファイルをコピーしました
+         2 個のファイルをコピーしました
+         2 個のファイルをコピーしました
+         2 個のファイルをコピーしました
+         6 個のファイルをコピーしました
+         2 個のファイルをコピーしました
+         1 個のファイルをコピーしました
+       Link:
+         libcocos2d.vcxproj -> C:\cocos2d-x-3.3\projects\block\proj.win32\Debug.win32\libcocos2d.dll
+     1>プロジェクト "C:\cocos2d-x-3.3\projects\block\cocos2d\cocos\2d\libcocos2d.vcxproj" (Build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:00.64
